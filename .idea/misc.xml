@@ -5,10 +5,12 @@
       <map>
         <entry key="..\:/Users/Eluan/AndroidStudioProjects/MyApplication5/app/src/main/res/drawable/button.xml" value="0.2165" />
         <entry key="..\:/Users/Eluan/AndroidStudioProjects/MyApplication5/app/src/main/res/drawable/container_components.xml" value="0.2165" />
+        <entry key="..\:/Users/Eluan/AndroidStudioProjects/MyApplication5/app/src/main/res/drawable/container_user.xml" value="0.108" />
         <entry key="..\:/Users/Eluan/AndroidStudioProjects/MyApplication5/app/src/main/res/drawable/edit_text.xml" value="0.2165" />
         <entry key="..\:/Users/Eluan/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_form_cadastro.xml" value="0.25" />
         <entry key="..\:/Users/Eluan/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/Eluan/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Eluan/AndroidStudioProjects/MyApplication5/app/src/main/res/layout/activity_tela_principal.xml" value="0.33" />
       </map>
     </option>
   </component>
